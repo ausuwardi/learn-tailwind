@@ -33,3 +33,6 @@ Tailwind provides utility classes that can be mix-matched to get desired result.
 - Text (text)
 - Font (font, leading, tracking)
 
+## Responsive Design
+
+By adding `max-w-md` and `mx-auto` in the wrapper element, we constrained the width of the page. Further, we can add responsive breakpoints from tailwind `sm, md, lg, xl` for example `md:bg-red-500` to set background color to red-500 on md breakpoint. All utility classes are responsive by prefixing with breakpoints.
