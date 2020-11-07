@@ -2,6 +2,8 @@
 
 ## Setup
 
+[Link to lesson](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
+
 1. Install project dependencies:
 
     - postcss
@@ -16,4 +18,18 @@
 6. public/build/tailwind.css can be used
 
 
+## The Utility-First Workflow
+
+[Link to lesson](https://tailwindcss.com/course/the-utility-first-workflow)
+
+Tailwind provides utility classes that can be mix-matched to get desired result. Some of notable utilities used in this lesson:
+
+- Background (bg)
+- Padding (px, py)
+- Height (h)
+- Margin (m, mt)
+- Rounded edges (rounded)
+- Drop shadows (shadow)
+- Text (text)
+- Font (font, leading, tracking)
 
